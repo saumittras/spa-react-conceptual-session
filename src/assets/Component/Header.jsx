@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-      <nav className="flex flex-row justify-between items-center">
+      <nav className="flex flex-row justify-between items-center w-11/12 mx-auto mt-10">
         <h1 className="text-4xl font-bold">Logo</h1>
         <div className="flex gap-5">
           <a href="#">Home</a>

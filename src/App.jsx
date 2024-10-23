@@ -10,8 +10,6 @@ function App() {
     status: "cart",
   });
 
-  console.log(isActive);
-
   const handleIsActiveState = (status) => {
     if (status == "cart") {
       setIsActive({

@@ -1,5 +1,9 @@
 import React from "react";
+
+import Cart from "../Cart/Cart";
+import About from "../About/About";
 import "./Cartcontainer.css";
+
 const Cardcontainer = ({ handleIsActiveState, isActive }) => {
   const { cart } = isActive;
   return (
@@ -27,6 +31,7 @@ const Cardcontainer = ({ handleIsActiveState, isActive }) => {
           About
         </div>
       </div>
+      {cart ? <Cart></Cart> : <About></About>}
     </div>
   );
 };
