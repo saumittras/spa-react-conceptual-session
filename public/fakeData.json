@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Golden Retriever Puppy",
+      "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+      "description": "A playful and friendly Golden Retriever puppy. Perfect for families.",
+      "price": 500,
+      "category": "Dogs",
+      "isFeature": true
+    },
+    {
+      "id": "2",
+      "name": "Persian Cat",
+      "image": "https://images.unsplash.com/photo-1592194996308-7a5a86a1f72d",
+      "description": "A fluffy Persian cat with a calm and gentle temperament.",
+      "price": 400,
+      "category": "Cats",
+      "isFeature": false
+    },
+    {
+      "id": "3",
+      "name": "Cockatiel Bird",
+      "image": "https://images.unsplash.com/photo-1621607429805-8fbdd4c033b9",
+      "description": "A friendly Cockatiel bird that loves to whistle and is easy to train.",
+      "price": 150,
+      "category": "Birds",
+      "isFeature": true
+    },
+    {
+      "id": "4",
+      "name": "Holland Lop Rabbit",
+      "image": "https://images.unsplash.com/photo-1592188450462-4b124778c0e0",
+      "description": "An adorable Holland Lop rabbit with soft fur and a sweet personality.",
+      "price": 80,
+      "category": "Rabbits",
+      "isFeature": false
+    },
+    {
+      "id": "5",
+      "name": "Siberian Husky Puppy",
+      "image": "https://images.unsplash.com/photo-1583511655626-83808336eab7",
+      "description": "A playful and active Siberian Husky puppy with a thick coat.",
+      "price": 600,
+      "category": "Dogs",
+      "isFeature": true
+    },
+    {
+      "id": "6",
+      "name": "British Shorthair Cat",
+      "image": "https://images.unsplash.com/photo-1592194996257-4b1d8eac6669",
+      "description": "A calm and affectionate British Shorthair with soft blue-grey fur.",
+      "price": 450,
+      "category": "Cats",
+      "isFeature": false
+    },
+    {
+      "id": "7",
+      "name": "African Grey Parrot",
+      "image": "https://images.unsplash.com/photo-1592194996143-45edc144f849",
+      "description": "An intelligent African Grey Parrot that mimics sounds and speech.",
+      "price": 1200,
+      "category": "Birds",
+      "isFeature": true
+    },
+    {
+      "id": "8",
+      "name": "Netherland Dwarf Rabbit",
+      "image": "https://images.unsplash.com/photo-1603846147398-bd6b62330d5a",
+      "description": "A tiny, cute Netherland Dwarf rabbit with a lively personality.",
+      "price": 90,
+      "category": "Rabbits",
+      "isFeature": false
+    },
+    {
+      "id": "9",
+      "name": "Beagle Puppy",
+      "image": "https://images.unsplash.com/photo-1601758123927-553b7f7e8113",
+      "description": "A cheerful and curious Beagle puppy with a strong sense of smell.",
+      "price": 350,
+      "category": "Dogs",
+      "isFeature": true
+    },
+    {
+      "id": "10",
+      "name": "Maine Coon Cat",
+      "image": "https://images.unsplash.com/photo-1615770074296-ae4a2269c31d",
+      "description": "A large and friendly Maine Coon cat known for its gentle temperament.",
+      "price": 700,
+      "category": "Cats",
+      "isFeature": true
+    },
+    {
+      "id": "11",
+      "name": "Lovebird Pair",
+      "image": "https://images.unsplash.com/photo-1592194996143-2f6e4b5e53fa",
+      "description": "A colorful and affectionate pair of Lovebirds.",
+      "price": 200,
+      "category": "Birds",
+      "isFeature": false
+    },
+    {
+      "id": "12",
+      "name": "Lionhead Rabbit",
+      "image": "https://images.unsplash.com/photo-1592194996143-c21d999473f5",
+      "description": "A fluffy Lionhead rabbit with a mane-like fur around its head.",
+      "price": 100,
+      "category": "Rabbits",
+      "isFeature": false
+    },
+    {
+      "id": "13",
+      "name": "Pomeranian Puppy",
+      "image": "https://images.unsplash.com/photo-1574158622682-e40e69881006",
+      "description": "A small and fluffy Pomeranian puppy full of energy and charm.",
+      "price": 550,
+      "category": "Dogs",
+      "isFeature": false
+    },
+    {
+      "id": "14",
+      "name": "Sphynx Cat",
+      "image": "https://images.unsplash.com/photo-1587986144821-4bcf5a6a6df7",
+      "description": "A unique hairless Sphynx cat known for its playful personality.",
+      "price": 900,
+      "category": "Cats",
+      "isFeature": true
+    },
+    {
+      "id": "15",
+      "name": "Budgerigar Pair",
+      "image": "https://images.unsplash.com/photo-1601758003122-cd2a372f22da",
+      "description": "A cheerful and chirpy pair of Budgerigars.",
+      "price": 75,
+      "category": "Birds",
+      "isFeature": false
+    },
+    {
+      "id": "16",
+      "name": "Flemish Giant Rabbit",
+      "image": "https://images.unsplash.com/photo-1555243896-3ba134858b18",
+      "description": "A large Flemish Giant rabbit with a calm and docile temperament.",
+      "price": 120,
+      "category": "Rabbits",
+      "isFeature": true
+    },
+    {
+      "id": "17",
+      "name": "Labrador Retriever Puppy",
+      "image": "https://images.unsplash.com/photo-1601758124621-4ea460fe1f82",
+      "description": "A loyal and friendly Labrador Retriever puppy, perfect for families.",
+      "price": 500,
+      "category": "Dogs",
+      "isFeature": true
+    },
+    {
+      "id": "18",
+      "name": "Bengal Cat",
+      "image": "https://images.unsplash.com/photo-1592194996143-efddf9a920af",
+      "description": "A stunning Bengal cat with a wild appearance and energetic personality.",
+      "price": 800,
+      "category": "Cats",
+      "isFeature": false
+    },
+    {
+      "id": "19",
+      "name": "Macaw Parrot",
+      "image": "https://images.unsplash.com/photo-1512427691650-36ce5e6cc68e",
+      "description": "A large and colorful Macaw Parrot, known for its vibrant feathers and intelligence.",
+      "price": 1500,
+      "category": "Birds",
+      "isFeature": true
+    },
+    {
+      "id": "20",
+      "name": "Mini Rex Rabbit",
+      "image": "https://images.unsplash.com/photo-1603846147482-8fd81a8fa8c9",
+      "description": "A soft and velvety Mini Rex rabbit, known for its luxurious fur.",
+      "price": 95,
+      "category": "Rabbits",
+      "isFeature": false
+    }
+  ]
+}
