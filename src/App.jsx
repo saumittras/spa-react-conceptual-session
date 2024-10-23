@@ -35,6 +35,7 @@ function App() {
         <Allproducts></Allproducts>
         <Cardcontainer
           handleIsActiveState={handleIsActiveState}
+          isActive={isActive}
         ></Cardcontainer>
       </div>
     </>
